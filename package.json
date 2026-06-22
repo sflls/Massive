@@ -1,0 +1,6 @@
+{
+  "name": "massive-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Serverless proxy for the Massive.com REST API on Vercel"
+}
